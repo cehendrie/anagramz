@@ -1,4 +1,4 @@
-from anagramz.anagram import Anagramz
+from anagramz.anagramz import Anagramz
 
 
 class TestAnagramz(object):
